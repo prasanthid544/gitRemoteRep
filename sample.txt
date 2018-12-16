@@ -1,4 +1,0 @@
-hello
-welcome
-gitfirst file
-child branch line
